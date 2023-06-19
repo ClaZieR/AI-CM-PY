@@ -1,8 +1,8 @@
 from telegram.ext import *
 import openai
 
-token= '5703205101:AAEnfhXyLdsq-DhEIr0SfyaM5hAWE8GK8z0'
-openai.api_key = "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"
+token= 'TEL-API'
+openai.api_key = "GPT-API"
 chatlist=[]
 username=""
 
